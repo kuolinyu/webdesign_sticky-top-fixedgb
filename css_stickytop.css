@@ -1,0 +1,28 @@
+#first {
+    background-image: url("asset/leipzigneuesrathaus.jpg");
+    min-height: 2400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#second {
+    background-image: url("asset/Neues_Rathaus_Leipzig_2011.jpg");
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%) blur(5px)
+}
+
+#third {
+    background-image: url("asset/Neues_Rathaus_Leipzig_2011.jpg");
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
